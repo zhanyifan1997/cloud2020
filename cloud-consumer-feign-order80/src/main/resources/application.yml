@@ -1,0 +1,25 @@
+server:
+  port: 80
+
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
+
+# 超时配置
+ribbon:
+  ReadTimeout: 5000
+  ConnectTimeout: 5000
+
+spring:
+  application:
+    name: cloud-consumer-feign-order
+
+# 设计日志级别
+logging:
+  level:
+    # feign 日志以什么级别监控哪个接口
+    cn.spectrumrpc.springcloud.service.PaymentFeignService: debug
