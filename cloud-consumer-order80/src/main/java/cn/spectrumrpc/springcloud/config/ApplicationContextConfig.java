@@ -17,7 +17,7 @@ import org.springframework.web.client.RestTemplate;
 public class ApplicationContextConfig {
 
     @Bean
-//    @LoadBalanced   // 测试自定义算法时记得注释
+    @LoadBalanced   // 测试自定义算法时记得注释
     public RestTemplate getRestTemplate(){
         return new RestTemplate();
     }
