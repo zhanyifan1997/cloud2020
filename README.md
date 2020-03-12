@@ -10,3 +10,6 @@ payment.sql为 微服务cloud-payment8001所需数据库脚本
 seata.sql为分布式事务第20章所需数据库建表建库sql
 SpringCloud2020.html 为脑图
 线程组RT为jmeter测试脚本
+
+# 工具
+下载地址都在相应的脑图中

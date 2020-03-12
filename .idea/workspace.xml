@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25560f4-a00e-40d1-87d7-238e9b032c3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/SpringCloud2020.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/hosts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/payment.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/seata.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/线程组RT.jmx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,7 +421,7 @@
       <workItem from="1583479159809" duration="50548000" />
       <workItem from="1583643023158" duration="33059000" />
       <workItem from="1583758278719" duration="11978000" />
-      <workItem from="1583972360745" duration="857000" />
+      <workItem from="1583972360745" duration="971000" />
     </task>
     <servers />
   </component>
